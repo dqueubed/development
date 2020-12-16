@@ -1,2 +1,2 @@
 # development
-development dox
+development dox repository for learning GIT and GitHub
